@@ -10,3 +10,5 @@ test.py: A separate test script with unit tests to validate the core functionali
 Instruction:
 Run main.py to see a demonstration of the data structures.
 Run test.py to execute the test cases.
+
+#Recent Commit contains updated invertedIndex.py, trie.py, heap.py and test.py files to handle larger datasets.
